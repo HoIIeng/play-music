@@ -1,0 +1,6 @@
+Text1 = 自訂文字.顯示文字("Hello", 2, 5)
+Text1.set_position(30, 30)
+Text2 = 自訂文字.顯示文字("World", 6, 9)
+Text2.set_position(60, 40)
+Text3 = 自訂文字.顯示文字("0123456789", 0, 0)
+音樂.演奏小星星()
